@@ -12,7 +12,7 @@ Language: **Node.js**
 <br />
 
 You can specifiy roles which can use this command to send the announcement:
-!announce
+- !announce
 
 Default Permission Level:
 - Host, Admin, Moderator
