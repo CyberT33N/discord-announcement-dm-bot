@@ -4,13 +4,15 @@ This bot will send privat messages to all users of the channel based on the anno
 <br />
 <br />
 
-Admins can use this command to send the announcement:
+You can specifiy roles which can use this command to send the announcement:
 !announce
 
-Permission Level:
+Default Permission Level:
 - Host, Admin, Moderator
 
 <br />
 <br />
 
-This command can be used to send DM to all members of your Channel (Online & Offline). The announcement text can be defenied at the config.json file.
+This command can be used to send DM to all members of your Channel (Online & Offline). 
+<br />
+The announcement text & roles can be defenied at the config.json file.
