@@ -1,0 +1,6 @@
+Please open .\DOCUMENTATION\index.html in your browser to read the install guide!
+
+You can just drag & drop the index.html file to your browser address bar and then you can view the .html file like a normal website!
+
+
+Greets Dennis
